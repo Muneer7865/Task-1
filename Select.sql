@@ -14,7 +14,7 @@ select * from Loans where LoanAmount>10000
 
 --SELECT the first name, last name, and loan amount of all loan applications.
 
-select 'FirstName','LastName','LoanAmount' from Loans
+select FirstName, LastName, LoanAmount from Loans
 
 --SELECT the average loan amount of all approved loan applications.
 
